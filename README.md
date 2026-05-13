@@ -1,7 +1,7 @@
 > [!WARNING]
 > **Notice: Arm64 image ownership change**
 >
-> GitHub has assumed ownership of the Arm64 runner images previously maintained by Arm Limited LLC.
+> GitHub has assumed ownership of the Arm64 runner images previously maintained by Arm Limited.
 >
 > As a result of this transition, the `actions/partner-runner-images` repository will be archived in 30 days on June 12th, 2026. Please plan accordingly and update any references or workflows that depend on this repository.
 > 
