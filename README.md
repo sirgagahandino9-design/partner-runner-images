@@ -1,4 +1,12 @@
-
+> [!WARNING]
+> **Notice: Arm64 image ownership change**
+>
+> GitHub has assumed ownership of the Arm64 runner images previously maintained by Arm Limited LLC.
+>
+> As a result of this transition, the `actions/partner-runner-images` repository will be archived in 30 days on June 12th, 2026. Please plan accordingly and update any references or workflows that depend on this repository.
+> 
+> Image management has been moved to the Actions [runner-images repository](https://github.com/actions/runner-images). All issues from this repository will be moved there.
+> 
 # GitHub Actions Partner Runner Images 
 
 **Table of Contents**
