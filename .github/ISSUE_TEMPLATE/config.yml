@@ -1,1 +1,11 @@
 blank_issues_enabled: false
+contact_links:
+  - name: GitHub Actions Runner Images (New Repository)
+    url: https://github.com/actions/runner-images
+    about: "⚠️ ARCHIVAL: This repository is archived. Please report all issues and requests in actions/runner-images"
+  - name: GitHub Support
+    url: https://support.github.com
+    about: "For GitHub platform-related issues"
+  - name: GitHub Community Discussions
+    url: https://github.com/orgs/community/discussions/categories/actions
+    about: "For general GitHub Actions questions"
