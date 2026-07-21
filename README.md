@@ -1,11 +1,25 @@
 > [!WARNING]
-> **Notice: Arm64 image ownership change**
+> ## ⚠️ Repository Archived
+>
+> **This repository was archived on June 12, 2026.**
 >
 > GitHub has assumed ownership of the Arm64 runner images previously maintained by Arm Limited.
 >
-> As a result of this transition, the `actions/partner-runner-images` repository will be archived in 30 days on June 12th, 2026. Please plan accordingly and update any references or workflows that depend on this repository.
-> 
-> Image management has been moved to the Actions [runner-images repository](https://github.com/actions/runner-images). All issues from this repository will be moved there.
+> ### What This Means
+>
+> - ✅ **Your workflows continue to work** - Existing images (`ubuntu-24.04-arm`, `ubuntu-22.04-arm`, `windows-11-arm`) remain available
+> - 📋 **New home for support** - All future development is in [actions/runner-images](https://github.com/actions/runner-images)
+> - 🔄 **Issues being migrated** - Existing issues are being transferred to the new repository
+>
+> ### What You Should Do
+>
+> **For bug reports:** Go to [actions/runner-images/issues](https://github.com/actions/runner-images/issues)
+>
+> **For feature requests:** Submit to [actions/runner-images/issues](https://github.com/actions/runner-images/issues)
+>
+> **For questions:** See [SUPPORT.md](SUPPORT.md) or [GitHub Community](https://github.com/orgs/community/discussions)
+>
+> **For security issues:** See [SECURITY.md](SECURITY.md)
 > 
 # GitHub Actions Partner Runner Images 
 

@@ -1,13 +1,34 @@
 ---
 name: Report an issue
-about: Create a report to help us improve
+about: "⚠️ NOTICE: This repository is archived. Please report issues in the new repository"
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Type of issue**
+## ⚠️ ARCHIVAL NOTICE
+
+This repository has been archived as of **June 12, 2026**. GitHub has assumed ownership of Arm64 runner images.
+
+**Please report all issues and requests in the new repository:**
+👉 [actions/runner-images](https://github.com/actions/runner-images)
+
+---
+
+If you have an existing issue, please note:
+- ✅ Issues from this repository **will be migrated** to the new runner-images repository
+- ✅ You can continue to use existing Arm-based images without interruption
+- ℹ️ All image management has moved to the GitHub Actions runner-images repository
+
+**For support, please:**
+1. Visit [actions/runner-images](https://github.com/actions/runner-images)
+2. Create an issue there with your question or bug report
+3. Reference this repository if needed for context
+
+---
+
+**Type of issue** (if posting before full migration)
 - [ ] Error when running a workflow.
 - [ ] Request for additional tools or software for an existing image.
 - [ ] Request for a new image, Linux or Windows.

@@ -1,0 +1,13 @@
+# ⚠️ REPOSITORY ARCHIVED
+# This repository was archived on June 12, 2026
+# 
+# GitHub Actions runner images are now maintained at:
+# https://github.com/actions/runner-images
+#
+# All contributions, issues, and pull requests should be directed to that repository.
+
+# Default: GitHub Actions Team
+*  @github/actions
+
+# This repository is archived and no longer accepts direct contributions
+# See CONTRIBUTING.md for details on how to contribute
